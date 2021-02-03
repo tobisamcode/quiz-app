@@ -1,5 +1,5 @@
 # Quiz_App
-I built a responsive quiz from scratch with HTML, CSS AND JavaScript.
+I built a responsive quiz from scratch with HTML, CSS AND Vanilla JavaScript.
 
 # Technology
 
